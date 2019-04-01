@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1549909738 source:c:\users\eleou\desktop\class iv\data structures\01_assignments\tictactoe_multidi\tictactoe_multidi\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	"Board.h"
+
+1549852612 c:\users\eleou\desktop\class iv\data structures\01_assignments\tictactoe_multidi\tictactoe_multidi\board.h
+	<iostream>
+	<string>
+
+1549852530 source:c:\users\eleou\desktop\class iv\data structures\01_assignments\tictactoe_multidi\tictactoe_multidi\board.cpp
+	"Board.h"
+	<iostream>
+	<iomanip>
+	<string>
+
